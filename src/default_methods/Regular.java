@@ -7,7 +7,7 @@ public class Regular implements Cupcoffee {
 		
 	}
 
-	@Override
+	
 	public void bonenMalen() {
 		
 		

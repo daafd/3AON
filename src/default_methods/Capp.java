@@ -4,7 +4,7 @@ public class Capp implements Cupcoffee{
 
 	@Override
 	public void zetten() {
-		System.out.println("kopje cappuccino zetten");
+		System.out.println("kopje cappuccino zetten!");
 		
 	}
 
