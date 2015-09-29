@@ -15,8 +15,8 @@ public class Testkoffiezet {
 		gewoon.bonenMalen();
 		
 		capo.zetten();
-	
-		laté.zetten();
+        capo.bonenMalen();
+        laté.zetten();
 		gewoon.zetten();
 		
 
